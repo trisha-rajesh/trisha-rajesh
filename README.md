@@ -1,6 +1,6 @@
 # Hi, I'm Trisha 👋
 
-Computer Science & Psychology student at UW–Madison.
+Recent graduate in Computer Science and Psychology from UW-Madison.
 
 Interested in:
 - AI
