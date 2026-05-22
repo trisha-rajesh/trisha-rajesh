@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Trisha 👋
 
-<!--
-**trisha-rajesh/trisha-rajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Psychology student at UW–Madison.
 
-Here are some ideas to get you started:
+Interested in:
+- AI
+- Distributed Systems
+- Full Stack Development
+- Human-Centered Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- MiniSpark distributed systems framework
+- Log-structured file system parser
+- Web development projects
+- AI/data-driven applications
